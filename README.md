@@ -2,8 +2,9 @@ TypeScript/JavaScript Developer
 
 Frontend:
   - React
-  - Redux (+RTK)
-  - Cypress
+  - Redux
+  - Unit/Integration testing Jest and Cypress
+  - CSS, SCSS, styled-components
 
 Backend:
   - NestJS (+Express)

@@ -1,13 +1,1 @@
-TypeScript/JavaScript Developer
-
-Frontend:
-  - React
-  - Redux
-  - Unit/Integration testing Jest and Cypress
-  - CSS, SCSS, styled-components
-
-Backend:
-  - NestJS (+Express)
-  - Node.js
-  - PostgreSQL
-  - Docker
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">

@@ -24,6 +24,8 @@ Just a guy trying out different technologies, looking for ways to make my develo
 - Finish [Codesync](https://github.com/frixaco/codesync) and [gclg](https://github.com/frixaco/gclg)
 - Become active Open Source contributor/developer
   - Contribute to
+    - [x] [Solid Primitives](https://github.com/solidjs-community/solid-primitives) (more coming...)
+    - [x] [fastify-oauth2](https://github.com/fastify/fastify-oauth2)
     - [ ] [trpc](https://github.com/trpc/trpc)
     - [ ] [osu!](https://github.com/ppy/osu)
     - [ ] [lazygit](https://github.com/jesseduffield/lazygit)

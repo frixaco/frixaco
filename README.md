@@ -4,11 +4,11 @@ Just a guy trying out different technologies, looking for ways to make my develo
 
 ### I'm currently working with
 
-- TypeScript/JavaScript
+- TypeScript/JavaScript, Go
 - React, Zustand, React Query, Solid, Angular
 - Fastify, Node.js
-- Prisma, Planetscale
-- Docker, PostgreSQL
+- Prisma, Planetscale, PostgreSQL
+- Docker, AWS
 
 ### and
 

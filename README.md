@@ -5,44 +5,21 @@ Just a guy trying out different technologies, looking for ways to make my develo
 ### I'm currently working with
 
 - TypeScript/JavaScript
-- React, Zustand, React Query
-- Solid
-- Angular
-- Fastify, Express, Node.js
-- Prisma
-- Planetscale
-- Docker
+- React, Zustand, React Query, Solid, Angular
+- Fastify, Node.js
+- Prisma, Planetscale
+- Docker, PostgreSQL
 
 ### and
 
 - I use VSCode, Neovim, tmux, Fish and Arch (btw) ([dotfiles](https://github.com/frixaco/dotfiles))
-- Learning Golang, Rust and Java ([gclg](https://github.com/frixaco/gclg), ...)
-- Watch anime, read manga and novels
+- Learning Golang, Rust and Java ([bitgorrent](https://github.com/frixaco/bitgorrent), [gclg](https://github.com/frixaco/gclg), ...)
 
 ### Goals
 
-- Finish [Codesync](https://github.com/frixaco/codesync) and [gclg](https://github.com/frixaco/gclg)
-- Become active Open Source contributor/developer
-  - Contribute to
-    - [x] [Solid Primitives](https://github.com/solidjs-community/solid-primitives) (more coming...)
-    - [x] [fastify-oauth2](https://github.com/fastify/fastify-oauth2)
-    - [ ] [trpc](https://github.com/trpc/trpc)
-    - [ ] [osu!](https://github.com/ppy/osu)
-    - [ ] [lazygit](https://github.com/jesseduffield/lazygit)
-    - [ ] [Reacord](https://github.com/itsMapleLeaf/reacord)
-    - ... most of my starred projects
-- Try out some new stuff
-  - Solid
-  - React Query
-  - tRPC
-  - Nextjs
-  - PlanetScale/Vercel/Railway
-  - Qwik
-  - Yew
-  - Remix
-  - Preact
-  - Tailwind
-- Get good at solving LeetCode problems (IYKYK)
+- Finish [Codesync](https://github.com/frixaco/codesync) and [bitgorrent](https://github.com/frixaco/bitgorrent)
+- Start regularly contributing to Open Source
+- Solve 300 LeetCode problems (IYKYK)
 
 <!-- 
 <p align="center">

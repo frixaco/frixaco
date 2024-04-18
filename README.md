@@ -1,6 +1,6 @@
 ## Hey, I'm Rustam!
 
-Just a guy trying out different technologies, looking for ways to make my developer workflow more effective and ultimately become a better software developer who crafts awesome software.
+A mediocre software developer doing mediocre things. Sometimes I try to do something interesting. I live inside my terminal full-time, enjoy Neovim and like to optimize my workflows.
 
 <!-- 
 <p align="center">

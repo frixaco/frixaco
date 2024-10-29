@@ -1,6 +1,6 @@
 ## Hey, I'm Rustam!
 
-A mediocre software developer doing mediocre things. Sometimes I try to do something interesting. I live inside my terminal full-time, enjoy Neovim and like to optimize my workflows.
+Just another dude. A mediocre software developer trying to become less mediocre.
 
 <!-- 
 <p align="center">

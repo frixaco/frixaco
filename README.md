@@ -1,6 +1,12 @@
 ## Hey, I'm Rustam!
 
-Just another dude. Trying to be less mediocre. I do frontend, backend and mobile. I also use neovim btw. Currently working on my Blender, digital art and Japanese skills. Balancing hobbies like a pro (no). I do play games. Total anime watched: 270.
+- Just another dude trying to be less mediocre
+- Generalist software engineer
+- Neovim and terminal enjoyer
+- Learning Blender, digital art, and Japanese
+- Bad at balancing hobbies
+- I play games
+- Anime watched: 270
 
 Telegram: @frixaco
 

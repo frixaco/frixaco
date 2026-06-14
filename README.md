@@ -10,6 +10,8 @@
 
 Telegram: @frixaco
 
+Status: Going through all repos and cleaning up. AI slop will be labebeled AI slop going forward.
+
 <!-- 
 <p align="center">
   <img align="center" src="http://aa.en.utf8art.com/cache/iconaa_150x150_1986cc3e40ee0e0745d0f7615be453f7.png" alt="Okabe Rintaro">
